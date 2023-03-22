@@ -1,1 +1,1 @@
-# Lobo-Gurá
+# Lobo-guará
