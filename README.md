@@ -1,3 +1,3 @@
 # lobo guará
 
-https://krisfera.github.io/Loboguará/aula01.html
+https://krisfera.github.io/Lobo-guara/aula01.html
